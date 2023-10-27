@@ -3,14 +3,25 @@ This repository contains a collection of resources and papers on Remote Sensing 
 
 To add your work to this repo, feel free to submit the request or contact me at liuchenyang@buaa.edu.cn
 
-## Paper List
+## Dataset
+- **LEVIR_CC** 10077 pairs of bi-temporal remote sensing images and 50385 sentences
+  - [[data]](https://github.com/Chen-Yang-Liu/RSICC), [[paper]](https://ieeexplore.ieee.org/document/10271701)
+ 
+
+| Dataset  | Image pairs num| Image sizes| Captions num|   Data   |   Paper  |
+| -------- | -------------- | ---------- | ----------- | -------- | -------- |
+| LEVIR_CC | 10,077 | (256,256) | 50,385 | [[data]](https://github.com/Chen-Yang-Liu/RSICC) | [[paper]](https://ieeexplore.ieee.org/document/10271701) |
+| Dubai_CC | 2,500  | (50,50)   | 500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
+
+
+## Paper
 - **A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning** [[pdf]](https://ieeexplore.ieee.org/document/10271701)
   - Liu C, Zhao R, Chen J, et al.
   - (2023.10) IEEE Transactions on Geoscience and Remote Sensing
 
 
 - **Progressive Scale-aware Network for Remote sensing Image Change Captioning** [[pdf]](https://arxiv.org/abs/2306.11300)
-  - Liu C, Yang J, Qi Z, et al. arXiv preprint arXiv:2303.00355, 2023.
+  - Liu C, Yang J, Qi Z, et al. 
   - (2023.10) 2023 IEEE International Geoscience and Remote Sensing Symposium IGARSS
     
 
