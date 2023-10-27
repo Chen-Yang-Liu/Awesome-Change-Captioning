@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Awesome-Change-Captioning</h1>
+<h1>Awesome Change Captioning</h1>
 </div>
 
 This repository contains a collection of resources and papers on Remote Sensing Change Captioning.
