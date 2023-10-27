@@ -11,7 +11,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | Dataset  | Image pairs num| Image sizes| Captions num|   Data   |   Paper  |
 | -------- | -------------- | ---------- | ----------- | -------- | -------- |
 | LEVIR_CC | 10,077 | (256,256) | 50,385 | [[data]](https://github.com/Chen-Yang-Liu/RSICC) | [[paper]](https://ieeexplore.ieee.org/document/10271701) |
-| Dubai_CC | 2,500  | (50,50)   | 500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
+| Dubai_CC |   500  | (50,50) | 2,500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
 
 
 ## Paper
