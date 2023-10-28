@@ -2,7 +2,7 @@
 <h1>Awesome Change Captioning</h1>
 </div>
 
-This repository contains a collection of resources and papers on Remote Sensing Change Captioning.
+This repository contains a collection of resources and papers on Change Captioning.
 
 To add your work to this repo, feel free to submit the request or contact me at liuchenyang@buaa.edu.cn
 
