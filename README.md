@@ -47,6 +47,10 @@ To add your work to this repo, feel free to submit the request or contact me at 
 
 ## Computer Vision Field
 ### Paper
+- **Viewpoint-Adaptive Representation Disentanglement Network for Change Captioning** [[pdf]](https://ieeexplore.ieee.org/abstract/document/10108947)
+  - Tu Y, Li L, Su L, et al.
+  - (2023) IEEE Transactions on Image Processing
+    
 - **Self-supervised Cross-view Representation Reconstruction for Change Captioning** [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/html/Tu_Self-supervised_Cross-view_Representation_Reconstruction_for_Change_Captioning_ICCV_2023_paper.html)
   - Tu Y, Li L, Su L, et al.
   - (2023) ICCV 2023
