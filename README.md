@@ -7,7 +7,8 @@ This repository contains a collection of resources and papers on Remote Sensing 
 To add your work to this repo, feel free to submit the request or contact me at liuchenyang@buaa.edu.cn
 
 
-## Dataset
+## Remote Sensing Field
+### Dataset
 - **Dataset Details:** 
 
 | Dataset  | Image pairs num| Image sizes| Captions num|   Data   |   Paper  |
@@ -15,7 +16,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | LEVIR_CC | 10,077 | (256,256) | 50,385 | [[data]](https://github.com/Chen-Yang-Liu/RSICC) | [[paper]](https://ieeexplore.ieee.org/document/10271701) |
 | Dubai_CC |   500  | (50,50) | 2,500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
 
-## Paper
+### Paper
 - **A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning** [[pdf]](https://ieeexplore.ieee.org/document/10271701)
   - Liu C, Zhao R, Chen J, et al.
   - (2023.10) IEEE Transactions on Geoscience and Remote Sensing
@@ -42,3 +43,26 @@ To add your work to this repo, feel free to submit the request or contact me at 
 - **Captioning changes in bi-temporal remote sensing images** [[pdf]](https://ieeexplore.ieee.org/abstract/document/9554419)
   - Chouaf S, Hoxha G, Smara Y, et al.
   - (2021.10) 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS
+
+
+## Computer Vision Field
+### Paper
+- **Self-supervised Cross-view Representation Reconstruction for Change Captioning** [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/html/Tu_Self-supervised_Cross-view_Representation_Reconstruction_for_Change_Captioning_ICCV_2023_paper.html)
+  - Tu Y, Li L, Su L, et al.
+  - (2023) ICCV 2023
+
+- **Describing and localizing multiple changes with transformers** [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/html/Qiu_Describing_and_Localizing_Multiple_Changes_With_Transformers_ICCV_2021_paper.html)
+  - Qiu Y, Yamamoto S, Nakashima K, et al.
+  - (2021) ICCV 2021
+
+- **Finding it at another side: A viewpoint-adapted matching encoder for change captioning** [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-58568-6_34)
+  - Shi X, Yang X, Gu J, et al.
+  - (2020) ECCV 2020
+
+- **Robust change captioning** [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/html/Park_Robust_Change_Captioning_ICCV_2019_paper.html)
+  - Park D H, Darrell T, Rohrbach A.
+  - (2019) ICCV 2019
+
+
+
+
