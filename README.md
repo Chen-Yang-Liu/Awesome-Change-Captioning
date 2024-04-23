@@ -25,7 +25,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
     
 - **Change Caption for Satellite Images Time Series** [[paper]](https://ieeexplore.ieee.org/abstract/document/10485459)[[code]](https://github.com/Crueyl123/SITSCC)
   - Wei Peng, Ping Jian, Zhuqing Mao, and Yingying Zhao
-    
+  - (2024. 03) EEE Geoscience and Remote Sensing Letters
 
 - **Interactive Change-Aware Transformer Network for Remote Sensing Image Change Captioning** [[paper]](https://www.mdpi.com/2072-4292/15/23/5611)
   - Cai C, Wang Y, Yap K H.
