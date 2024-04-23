@@ -20,7 +20,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
 - **Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning** [[paper]](https://arxiv.org/abs/2312.15311)
   - Liu C, Chen K, Qi Z, et al.
     
-- **SITSCC:Change Caption for Satellite Images Time Series** [[code]](https://github.com/Crueyl123/SITSCC)
+- **Change Caption for Satellite Images Time Series** [[paper]](https://ieeexplore.ieee.org/abstract/document/10485459)[[code]](https://github.com/Crueyl123/SITSCC)
   - Wei Peng, Ping Jian, Zhuqing Mao, and Yingying Zhao
     
 
