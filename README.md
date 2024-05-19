@@ -17,15 +17,28 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | Dubai_CC |   500  | (50,50) | 2,500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
 
 ### Paper
+- **Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10530145) [[code]](https://github.com/mrazhou/SEN)
+  - Q Zhou, J Gao, Y Yuan, Q Wang
+  - (2024. 05) IEEE Transactions on Geoscience and Remote Sensing
+
+- **A Lightweight Transformer for Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2405.06598) [[code]](https://github.com/sundongwei/Lite_Chag2cap)
+  - D Sun, Y Bao, X Cao
+  - (2024. 05) arxiv
+  
+- **RSCaMa: Remote Sensing Image Change Captioning with State Space Model** [[paper]](https://arxiv.org/abs/2404.18895) [[code]](https://github.com/Chen-Yang-Liu/RSCaMa)
+  - C Liu, K Chen, B Chen, H Zhang, Z Zou, Z Shi
+  - (2024. 03) arxiv
+  
 - **Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis** [[paper]](https://arxiv.org/abs/2403.19646) [[code]](https://github.com/Chen-Yang-Liu/Change-Agent)
-  - (2024. 03) 
+  - (2024. 03) arxiv
+
+- **Change Caption for Satellite Images Time Series** [[paper]](https://ieeexplore.ieee.org/abstract/document/10485459)[[code]](https://github.com/Crueyl123/SITSCC)
+  - Wei Peng, Ping Jian, Zhuqing Mao, and Yingying Zhao
+  - (2024. 03) IEEE Geoscience and Remote Sensing Letters
     
 - **Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning** [[paper]](https://arxiv.org/abs/2312.15311)
   - Liu C, Chen K, Qi Z, et al.
-    
-- **Change Caption for Satellite Images Time Series** [[paper]](https://ieeexplore.ieee.org/abstract/document/10485459)[[code]](https://github.com/Crueyl123/SITSCC)
-  - Wei Peng, Ping Jian, Zhuqing Mao, and Yingying Zhao
-  - (2024. 03) EEE Geoscience and Remote Sensing Letters
+  - (2024. 01) arxiv
 
 - **Interactive Change-Aware Transformer Network for Remote Sensing Image Change Captioning** [[paper]](https://www.mdpi.com/2072-4292/15/23/5611)
   - Cai C, Wang Y, Yap K H.
