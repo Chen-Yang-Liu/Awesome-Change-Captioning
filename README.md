@@ -31,7 +31,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
   
 - **RSCaMa: Remote Sensing Image Change Captioning with State Space Model** [[paper]](https://arxiv.org/abs/2404.18895) [[code]](https://github.com/Chen-Yang-Liu/RSCaMa)
   - C Liu, K Chen, B Chen, H Zhang, Z Zou, Z Shi
-  - (2024. 04) arxiv
+  - (2024. 05) IEEE Geoscience and Remote Sensing Letters
   
 - **Change-Agent: Towards Interactive Comprehensive Remote Sensing Change Interpretation and Analysis** [[paper]](https://arxiv.org/abs/2403.19646) [[code]](https://github.com/Chen-Yang-Liu/Change-Agent)
   - (2024. 03) arxiv
