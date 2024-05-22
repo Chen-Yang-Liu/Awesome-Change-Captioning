@@ -17,10 +17,14 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | Dubai_CC |   500  | (50,50) | 2,500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
 
 ### Paper
+- **Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images** [[paper]](https://arxiv.org/abs/2405.12875) [[code]](https://github.com/Fay-Y/Diffusion-RSCC)
+  - X Yu, Y Li, J Ma
+  - (2024. 05) Arxiv
+
 - **Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10530145) [[code]](https://github.com/mrazhou/SEN)
   - Q Zhou, J Gao, Y Yuan, Q Wang
   - (2024. 05) IEEE Transactions on Geoscience and Remote Sensing
-
+    
 - **A Lightweight Transformer for Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2405.06598) [[code]](https://github.com/sundongwei/Lite_Chag2cap)
   - D Sun, Y Bao, X Cao
   - (2024. 05) arxiv
