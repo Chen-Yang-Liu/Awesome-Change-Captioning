@@ -29,7 +29,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
   - D Sun, Y Bao, X Cao
   - (2024. 05) arxiv
   
-- **RSCaMa: Remote Sensing Image Change Captioning with State Space Model** [[paper]](https://arxiv.org/abs/2404.18895) [[code]](https://github.com/Chen-Yang-Liu/RSCaMa)
+- **RSCaMa: Remote Sensing Image Change Captioning with State Space Model** [[paper]](https://ieeexplore.ieee.org/document/10537177) [[code]](https://github.com/Chen-Yang-Liu/RSCaMa)
   - C Liu, K Chen, B Chen, H Zhang, Z Zou, Z Shi
   - (2024. 05) IEEE Geoscience and Remote Sensing Letters
   
