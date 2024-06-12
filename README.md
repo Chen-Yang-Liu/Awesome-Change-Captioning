@@ -17,6 +17,10 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | Dubai_CC |   500  | (50,50) | 2,500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
 
 ### Paper
+- **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://arxiv.org/abs/2405.20810) [[code]](https://github.com/tuyunbin/CARD)
+  - Y Tu, L Li, L Su, ZJ Zha, C Yan, Q Huang
+  - (2024. 05) Arxiv
+  - 
 - **Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images** [[paper]](https://arxiv.org/abs/2405.12875) [[code]](https://github.com/Fay-Y/Diffusion-RSCC)
   - X Yu, Y Li, J Ma
   - (2024. 05) Arxiv
