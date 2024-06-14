@@ -80,6 +80,10 @@ To add your work to this repo, feel free to submit the request or contact me at 
 
 ## Computer Vision Field
 ### Paper
+- **The STVchrono Dataset: Towards Continuous Change Recognition in Time** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_The_STVchrono_Dataset_Towards_Continuous_Change_Recognition_in_Time_CVPR_2024_paper.html)
+  - Yanjun Sun, Yue Qiu, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata
+  - (2024) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+
 - **Viewpoint-Adaptive Representation Disentanglement Network for Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10108947)
   - Tu Y, Li L, Su L, et al.
   - (2023) IEEE Transactions on Image Processing
