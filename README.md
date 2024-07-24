@@ -17,6 +17,11 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | Dubai_CC |   500  | (50,50) | 2,500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
 
 ### Paper
+
+- **Intelli-Change Remote Sensing - A Novel Transformer Approach** [[paper]](https://ieeexplore.ieee.org/document/10594026)
+  - D Vyshnav, L Gutha, APV Manindra, B Karthikeyan
+  - (2024. 06) International Conference on Data Science and Information System (ICDSIS)
+
 - **Towards a multimodal framework for remote sensing image change retrieval and captioning** [[paper]](https://arxiv.org/abs/2406.13424) [[code]](https://github.com/rogerferrod/RSICRC)
   - Roger Ferrod, Luigi Di Caro, Dino Ienco
   - (2024. 06) Arxiv
