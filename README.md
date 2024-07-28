@@ -17,6 +17,9 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | Dubai_CC |   500  | (50,50) | 2,500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
 
 ### Paper
+- **Multi-scale Attentive Fusion Network for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10594026)
+  - Cai Chen; Yi Wang; Kim-Hui Yap
+  - (2024. 07) 2024 IEEE International Symposium on Circuits and Systems (ISCAS)
 
 - **Intelli-Change Remote Sensing - A Novel Transformer Approach** [[paper]](https://ieeexplore.ieee.org/document/10594026)
   - D Vyshnav, L Gutha, APV Manindra, B Karthikeyan
