@@ -9,14 +9,14 @@ To add your work to this repo, feel free to submit the request or contact me at 
 
 ## Remote Sensing Field
 ### Dataset
-- **Change Captioning Dataset Details:** 
+- **Change Captioning Dataset:** 
 
 | Dataset  | Image pairs num| Image sizes| Captions num|   Data   |   Paper  |
 | -------- | :------------: | :--------: | :---------: | :------: | :------: |
 | LEVIR_CC | 10,077 | (256,256) | 50,385 | [[data]](https://github.com/Chen-Yang-Liu/RSICC) | [[paper]](https://ieeexplore.ieee.org/document/10271701) |
 | Dubai_CC |   500  | (50,50) | 2,500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
 
-- **Change Detection and Captioning Dataset Details:** 
+- **Change Detection and Captioning Dataset:** 
 
 | Dataset  | Image pairs num| Image sizes| Captions num| Mask num|   Data   |   Paper  |
 | -------- | :------------: | :--------: | :---------: | :-----: | :------: | :------: |
