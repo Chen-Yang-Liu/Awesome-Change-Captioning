@@ -23,6 +23,10 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | LEVIR_MCI | 10,077 | (256,256) | 50,385 | 44,380 |[[data]](https://github.com/Chen-Yang-Liu/Change-Agent) | [[paper]](https://ieeexplore.ieee.org/document/10591792) |
 
 ### Paper
+- **CDChat: A Large Multimodal Model for Remote Sensing Change Description** [[paper]](https://arxiv.org/abs/2409.16261)
+  - Mubashir Noman, Noor Ahsan, Muzammal Naseer, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Fahad Shahbaz Khan
+  - (2024. 09) Arxiv
+
 - **Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2409.12612)
   - Cong Yang, Zuchao Li, Hongzan Jiao, Zhi Gao, Lefei Zhang
   - (2024. 09) Arxiv
