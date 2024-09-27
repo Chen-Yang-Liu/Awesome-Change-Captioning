@@ -47,6 +47,10 @@ To add your work to this repo, feel free to submit the request or contact me at 
   - Xiliang Li; Bin Sun; Shutao Li
   - (2024. 09) 2024 IEEE International Geoscience and Remote Sensing Symposium - IGARSS 2024
 
+- **Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance** [[paper]](https://arxiv.org/abs/2407.14032)
+  - Yongshuo Zhu, Lu Li, Keyan Chen, Chenyang Liu, Fugen Zhou, Zhenwei Shi
+  - (2024. 07) Arxiv
+
 - **Scale-wised feature enhancement network for change captioning of remote sensing images** [[paper]](https://www.tandfonline.com/doi/abs/10.1080/01431161.2024.2380544)
   - F Zhang, W Zhang, K Xia, H Feng
   - (2024. 07) International Journal of Remote Sensing
