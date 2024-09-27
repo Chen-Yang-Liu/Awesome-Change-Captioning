@@ -27,7 +27,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
   - Yunpeng Li; Xiangrong Zhang; Xina Cheng; Puhua Chen; Licheng Jiao
   - (2024. 09) IEEE Transactions on Geoscience and Remote Sensing
   
-- **CDChat: A Large Multimodal Model for Remote Sensing Change Description** [[paper]](https://arxiv.org/abs/2409.16261)
+- **CDChat: A Large Multimodal Model for Remote Sensing Change Description** [[paper]](https://arxiv.org/abs/2409.16261) [[code]](https://github.com/techmn/cdchat)
   - Mubashir Noman, Noor Ahsan, Muzammal Naseer, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Fahad Shahbaz Khan
   - (2024. 09) Arxiv
 
