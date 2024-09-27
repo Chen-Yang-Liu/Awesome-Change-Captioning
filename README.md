@@ -31,11 +31,11 @@ To add your work to this repo, feel free to submit the request or contact me at 
   - Mubashir Noman, Noor Ahsan, Muzammal Naseer, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Fahad Shahbaz Khan
   - (2024. 09) Arxiv
 
-- **Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2409.12612)
+- **Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2409.12612) [[code]](https://github.com/yangcong356/KCFI)
   - Cong Yang, Zuchao Li, Hongzan Jiao, Zhi Gao, Lefei Zhang
   - (2024. 09) Arxiv
     
-- **ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning** [[paper]](https://arxiv.org/abs/2409.08582)
+- **ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning** [[paper]](https://arxiv.org/abs/2409.08582) [[code]](https://github.com/hanlinwu/ChangeChat)
   - Pei Deng, Wenqian Zhou, Hanlin Wu
   - (2024. 09) Arxiv
     
