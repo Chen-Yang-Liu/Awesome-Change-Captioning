@@ -23,6 +23,10 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | LEVIR_MCI | 10,077 | (256,256) | 50,385 | 44,380 |[[data]](https://github.com/Chen-Yang-Liu/Change-Agent) | [[paper]](https://ieeexplore.ieee.org/document/10591792) |
 
 ### Paper
+- **Inter-Temporal Interaction and Symmetric Difference Learning for Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2409.16261)
+  - Yunpeng Li; Xiangrong Zhang; Xina Cheng; Puhua Chen; Licheng Jiao
+  - (2024. 09) IEEE Transactions on Geoscience and Remote Sensing
+  
 - **CDChat: A Large Multimodal Model for Remote Sensing Change Description** [[paper]](https://arxiv.org/abs/2409.16261)
   - Mubashir Noman, Noor Ahsan, Muzammal Naseer, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Fahad Shahbaz Khan
   - (2024. 09) Arxiv
