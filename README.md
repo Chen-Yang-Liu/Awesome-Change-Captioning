@@ -38,10 +38,6 @@ To add your work to this repo, feel free to submit the request or contact me at 
 - **ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning** [[paper]](https://arxiv.org/abs/2409.08582) [[code]](https://github.com/hanlinwu/ChangeChat)
   - Pei Deng, Wenqian Zhou, Hanlin Wu
   - (2024. 09) Arxiv
-
-- **A Lightweight Sparse Focus Transformer for Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2405.06598) [[code]](https://github.com/sundongwei/SFT_chag2cap)
-  - Dongwei Sun; Yajie Bao; Junmin Liu; Xiangyong Cao
-  - (2024. 09) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   
 - **MfrNet: A New Multi-Scale Feature Refining Method for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10640584)
   - Kaiqi Xu; Yingping Han; Rui Yang; Xiutiao Ye; Yanhe Guo; Hantong Xing; Shuang Wang
@@ -82,7 +78,10 @@ To add your work to this repo, feel free to submit the request or contact me at 
 - **Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10530145) [[code]](https://github.com/mrazhou/SEN)
   - Q Zhou, J Gao, Y Yuan, Q Wang
   - (2024. 05) IEEE Transactions on Geoscience and Remote Sensing
-  
+
+- **A Lightweight Sparse Focus Transformer for Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2405.06598) [[code]](https://github.com/sundongwei/SFT_chag2cap)
+  - Dongwei Sun; Yajie Bao; Junmin Liu; Xiangyong Cao
+  - (2024. 05) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
   
 - **RSCaMa: Remote Sensing Image Change Captioning with State Space Model** [[paper]](https://ieeexplore.ieee.org/document/10537177) [[code]](https://github.com/Chen-Yang-Liu/RSCaMa)
   - C Liu, K Chen, B Chen, H Zhang, Z Zou, Z Shi
@@ -97,7 +96,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
     
 - **Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning** [[paper]](https://arxiv.org/abs/2312.15311)
   - Liu C, Chen K, Qi Z, et al.
-  - (2024. 01) arxiv
+  - (2024. 01) 2024 IEEE International Geoscience and Remote Sensing Symposium - IGARSS 2024
 
 - **Interactive Change-Aware Transformer Network for Remote Sensing Image Change Captioning** [[paper]](https://www.mdpi.com/2072-4292/15/23/5611)
   - Cai C, Wang Y, Yap K H.
