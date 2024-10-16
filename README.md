@@ -23,6 +23,10 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | LEVIR_MCI | 10,077 | (256,256) | 50,385 | 44,380 |[[data]](https://github.com/Chen-Yang-Liu/Change-Agent) | [[paper]](https://ieeexplore.ieee.org/document/10591792) |
 
 ### Paper
+- **ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing** [[paper]](https://arxiv.org/abs/2410.10047)
+  - Yuduo Wang, Weikang Yu, Michael Kopp, Pedram Ghamisi
+  - (2024. 10) Arxiv
+  
 - **Inter-Temporal Interaction and Symmetric Difference Learning for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10689474)
   - Yunpeng Li; Xiangrong Zhang; Xina Cheng; Puhua Chen; Licheng Jiao
   - (2024. 09) IEEE Transactions on Geoscience and Remote Sensing
