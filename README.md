@@ -63,6 +63,10 @@ To add your work to this repo, feel free to submit the request or contact me at 
   - Cai Chen; Yi Wang; Kim-Hui Yap
   - (2024. 07) 2024 IEEE International Symposium on Circuits and Systems (ISCAS)
 
+- **Towards Temporal Change Explanations from Bi-Temporal Satellite Images** [[paper]](https://arxiv.org/abs/2407.09548)
+  - Ryo Tsujimoto, Hiroki Ouchi, Hidetaka Kamigaito, Taro Watanabe
+  - (2024. 06) Arxiv
+
 - **Intelli-Change Remote Sensing - A Novel Transformer Approach** [[paper]](https://ieeexplore.ieee.org/document/10594026)
   - D Vyshnav, L Gutha, APV Manindra, B Karthikeyan
   - (2024. 06) International Conference on Data Science and Information System (ICDSIS)
