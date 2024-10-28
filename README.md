@@ -23,6 +23,11 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | LEVIR_MCI | 10,077 | (256,256) | 50,385 | 44,380 |[[data]](https://github.com/Chen-Yang-Liu/Change-Agent) | [[paper]](https://ieeexplore.ieee.org/document/10591792) |
 
 ### Paper
+
+- **GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing** [[paper]](https://arxiv.org/abs/2410.19552) [[code]](https://github.com/HosamGen/GeoLLaVA)
+  - Hosam Elgendy, Ahmed Sharshar, Ahmed Aboeitta, Yasser Ashraf, Mohsen Guizani
+  - (2024. 10) Arxiv
+  
 - **ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing** [[paper]](https://arxiv.org/abs/2410.10047) [[code]](https://github.com/Y-D-Wang/ChangeMinds)
   - Yuduo Wang, Weikang Yu, Michael Kopp, Pedram Ghamisi
   - (2024. 10) Arxiv
