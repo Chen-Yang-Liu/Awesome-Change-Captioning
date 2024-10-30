@@ -123,7 +123,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
   - Liu C, Zhao R, Chen J, et al.
   - (2023.10) IEEE Transactions on Geoscience and Remote Sensing
     
-- **Progressive Scale-aware Network for Remote sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2306.11300) [[code]](https://github.com/Chen-Yang-Liu/PSNet)
+- **Progressive Scale-aware Network for Remote sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10283451) [[code]](https://github.com/Chen-Yang-Liu/PSNet)
   - Liu C, Yang J, Qi Z, et al. 
   - (2023.7) 2023 IEEE International Geoscience and Remote Sensing Symposium IGARSS
 
