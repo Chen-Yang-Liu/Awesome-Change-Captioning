@@ -115,14 +115,14 @@ To add your work to this repo, feel free to submit the request or contact me at 
   - Cai C, Wang Y, Yap K H.
   - (2023.11) Remote Sensing
 
+- **Changes to Captions: An Attentive Network for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10305516) [[code]](https://github.com/ShizhenChang/Chg2Cap)
+  - Chang S, Ghamisi P.
+  - (2023. 11) IEEE Trans. Image Process.
+
 - **A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10271701) [[code]](https://github.com/Chen-Yang-Liu/PromptCC)
   - Liu C, Zhao R, Chen J, et al.
   - (2023.10) IEEE Transactions on Geoscience and Remote Sensing
 
-- **Changes to Captions: An Attentive Network for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10305516) [[code]](https://github.com/ShizhenChang/Chg2Cap)
-  - Chang S, Ghamisi P.
-  - (2023. 4) IEEE Trans. Image Process.
-    
 - **Progressive Scale-aware Network for Remote sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10283451) [[code]](https://github.com/Chen-Yang-Liu/PSNet)
   - Liu C, Yang J, Qi Z, et al. 
   - (2023.7) 2023 IEEE International Geoscience and Remote Sensing Symposium IGARSS
