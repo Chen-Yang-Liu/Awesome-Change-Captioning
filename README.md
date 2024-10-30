@@ -68,6 +68,10 @@ To add your work to this repo, feel free to submit the request or contact me at 
   - Cai Chen; Yi Wang; Kim-Hui Yap
   - (2024. 07) 2024 IEEE International Symposium on Circuits and Systems (ISCAS)
 
+- **Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis** [[paper]](https://ieeexplore.ieee.org/abstract/document/10591792) [[code]](https://github.com/Chen-Yang-Liu/Change-Agent)
+  - Chenyang Liu; Keyan Chen; Haotian Zhang; Zipeng Qi; Zhengxia Zou; Zhenwei Shi
+  - (2024. 07) IEEE Transactions on Geoscience and Remote Sensing
+
 - **Towards Temporal Change Explanations from Bi-Temporal Satellite Images** [[paper]](https://arxiv.org/abs/2407.09548)
   - Ryo Tsujimoto, Hiroki Ouchi, Hidetaka Kamigaito, Taro Watanabe
   - (2024. 06) Arxiv
@@ -99,9 +103,6 @@ To add your work to this repo, feel free to submit the request or contact me at 
 - **RSCaMa: Remote Sensing Image Change Captioning with State Space Model** [[paper]](https://ieeexplore.ieee.org/document/10537177) [[code]](https://github.com/Chen-Yang-Liu/RSCaMa)
   - C Liu, K Chen, B Chen, H Zhang, Z Zou, Z Shi
   - (2024. 05) IEEE Geoscience and Remote Sensing Letters
-  
-- **Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis** [[paper]](https://ieeexplore.ieee.org/abstract/document/10591792) [[code]](https://github.com/Chen-Yang-Liu/Change-Agent)
-  - (2024. 03) IEEE Transactions on Geoscience and Remote Sensing
 
 - **Change Caption for Satellite Images Time Series** [[paper]](https://ieeexplore.ieee.org/abstract/document/10485459)[[code]](https://github.com/Crueyl123/SITSCC)
   - Wei Peng, Ping Jian, Zhuqing Mao, and Yingying Zhao
