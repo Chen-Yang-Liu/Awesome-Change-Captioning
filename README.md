@@ -23,6 +23,9 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | LEVIR_MCI | 10,077 | (256,256) | 50,385 | 44,380 |[[data]](https://github.com/Chen-Yang-Liu/Change-Agent) | [[paper]](https://ieeexplore.ieee.org/document/10591792) |
 
 ### Paper
+- **MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption** [[paper]](https://arxiv.org/abs/2410.23946) [[code]](https://github.com/liuruixun/MV-CC)
+  - Ruixun Liu, Kaiyu Li, Jiayi Song, Dongwei Sun, Xiangyong Cao
+  - (2024. 10) Arxiv
 
 - **GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing** [[paper]](https://arxiv.org/abs/2410.19552) [[code]](https://github.com/HosamGen/GeoLLaVA)
   - Hosam Elgendy, Ahmed Sharshar, Ahmed Aboeitta, Yasser Ashraf, Mohsen Guizani
