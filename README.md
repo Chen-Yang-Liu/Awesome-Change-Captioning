@@ -23,25 +23,6 @@ To add your work to this repo, feel free to submit the request or contact me at 
 | LEVIR_MCI | 10,077 | (256,256) | 50,385 | 44,380 |[[data]](https://github.com/Chen-Yang-Liu/Change-Agent) | [[paper]](https://ieeexplore.ieee.org/document/10591792) |
 
 ### Paper
-- **Remote Sensing Image Change Captioningxxxx** [[paper]](https://arxiv.org/abs/2410.23946) [[code]](https://github.com/liuruixun/MV-CC)
-  - xxx
-  - (2024. 11)IEEE Transactions on Geoscience and Remote Sensing
-
-- **Remote Sensing Image Change Captioning Using Multi-Attentive Network with Diffusion Model** [[paper]](https://arxiv.org/abs/2410.23946) [[code]](https://github.com/liuruixun/MV-CC)
-  - Yue Yang,Tie Liu,Ying Pu,Liangchen Liu,Qijun Zhao andQun Wan
-  - (2024. 11) Remote Sensing
-
-- **A Multi-Task Network and Two Large Scale Datasets for Change Detection and Captioning in Remote Sensing Images** [[paper]](https://arxiv.org/abs/2410.23946) [[code]](https://github.com/liuruixun/MV-CC)
-  - Jingye Shi; Mengge Zhang; Yuewu Hou; Ruicong Zhi; Jiqiang Liu
-  - (2024. 10) IEEE Transactions on Geoscience and Remote Sensing
-  
-- **Chareption: Change-Aware Adaption Empowers Large Language Model for Effective Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2410.23946) [[code]](https://github.com/liuruixun/MV-CC)
-  - Yue Yang,Tie Liu,Ying Pu,Liangchen Liu,Qijun Zhao andQun Wan
-  - (2024. 10) Pattern Recognition and Computer Vision
-
-- **Show Me What and Where has Changed? Question Answering and Grounding for Remote Sensing Change Detection** [[paper]](https://arxiv.org/abs/2410.23946) [[code]](https://github.com/liuruixun/MV-CC)
-  - Ke Li, Fuyu Dong, Di Wang, Shaofeng Li, Quan Wang, Xinbo Gao, Tat-Seng Chua
-  - (2024. 10) Arxiv
   
 - **MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption** [[paper]](https://arxiv.org/abs/2410.23946) [[code]](https://github.com/liuruixun/MV-CC)
   - Ruixun Liu, Kaiyu Li, Jiayi Song, Dongwei Sun, Xiangyong Cao
