@@ -9,8 +9,8 @@
     <a href="https://chen-yang-liu.github.io/"><strong>Chenyang Liu </strong></a>
     ·
     <a href="https://levir.buaa.edu.cn/members/index.html"><strong> Jiafan Zhang </strong></a>
-<!--     ·
-    <a href="https://chenkeyan.top/"><strong> Keyan Chen </strong></a> -->
+    ·
+    <a href="https://chenkeyan.top/"><strong> Keyan Chen </strong></a>
     ·
     <a href="https://levir.buaa.edu.cn/members/index.html"><strong> Man Wang </strong></a>
     ·
