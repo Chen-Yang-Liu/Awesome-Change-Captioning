@@ -68,7 +68,7 @@ This survey presents the first detailed survey on remote sensing vision language
   - [Change Captioning](#change-captioning)
   - [Multitask Learning of Change Detection and Captioning](#Multitask-Learning-of-Change-Detection-and-Captioning)
   - [Change Visual Question Answering](#change-visual-question-answering)
-  - [Text-to-Change Retrieval](#Text-to-Change Retrieval)
+  - [Text2Change Retrieval](#Text2Change-Retrieval)
   - ......
 
 - [📊 Dataset](#Dataset)
@@ -104,7 +104,7 @@ This survey presents the first detailed survey on remote sensing vision language
 |    CCExpert    | [CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset](https://arxiv.org/abs/2411.11360)         |    Diffusion          |        Transformer Decoder        |   [code](https://github.com/Meize0729/CCExpert)    | 
 
 
-### Multi-task Learning of Change Detection and Captioning
+### Multitask Learning of Change Detection and Captioning
 |  Model Name  | Paper Title                                                                                                                                                                        |   Visual Encoder    |   Language Decoder   |                     Code/Project                      |
 |:------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:--------------------:|:-----------------------------------------------------:|
 | Pix4Cap      | [Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning](https://arxiv.org/abs/2312.15311)                                                        |      ViT-B/32       | Transformer Decoder  | [code](https://github.com/Chen-Yang-Liu/Change-Agent) |
@@ -128,7 +128,7 @@ This survey presents the first detailed survey on remote sensing vision language
 |       CDQAG       | [Show Me What and Where has Changed?  Question Answering and Grounding for Remote Sensing Change Detection](https://arxiv.org/abs/2410.23828)    | CLIP image Encoder |       CLIP Text Encoder       |    [code](https://github.com/like413/VisTA)    |
 
 
-### Text-to-Change Retrieval
+### Text2Change Retrieval
 |    Model Name     | Paper Title                                                                                                                                                 |                  Code/Project                  |
 |:-----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------:|
 |  ChangeRetCap  | [Towards a multimodal framework for remote sensing image change retrieval and captioning](https://arxiv.org/abs/2406.13424)                                 | [code](https://github.com/rogerferrod/RSICRC)  |
