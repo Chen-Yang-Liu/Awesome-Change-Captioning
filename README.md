@@ -1,185 +1,141 @@
-<div align="center">
-<h1>Awesome Change Captioning</h1>
-</div>
-
-This repository contains a collection of resources and papers on Change Captioning.
-
-To add your work to this repo, feel free to submit the request or contact me at liuchenyang@buaa.edu.cn
-
-
-## Remote Sensing Field
-### Dataset
-- **Change Captioning Dataset:** 
-
-| Dataset  | Image pairs num| Image sizes| Captions num|   Data   |   Paper  |
-| -------- | :------------: | :--------: | :---------: | :------: | :------: |
-| LEVIR_CC | 10,077 | (256,256) | 50,385 | [[data]](https://github.com/Chen-Yang-Liu/RSICC) | [[paper]](https://ieeexplore.ieee.org/document/10271701) |
-| Dubai_CC |   500  | (50,50) | 2,500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
-
-- **Change Detection and Captioning Dataset:** 
-
-| Dataset  | Image pairs num| Image sizes| Captions num| Mask num|   Data   |   Paper  |
-| -------- | :------------: | :--------: | :---------: | :-----: | :------: | :------: |
-| LEVIR_MCI | 10,077 | (256,256) | 50,385 | 44,380 |[[data]](https://github.com/Chen-Yang-Liu/Change-Agent) | [[paper]](https://ieeexplore.ieee.org/document/10591792) |
-
-### Paper
-  
-- **MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption** [[paper]](https://arxiv.org/abs/2410.23946) [[code]](https://github.com/liuruixun/MV-CC)
-  - Ruixun Liu, Kaiyu Li, Jiayi Song, Dongwei Sun, Xiangyong Cao
-  - (2024. 10) Arxiv
-  
-- **GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing** [[paper]](https://arxiv.org/abs/2410.19552) [[code]](https://github.com/HosamGen/GeoLLaVA)
-  - Hosam Elgendy, Ahmed Sharshar, Ahmed Aboeitta, Yasser Ashraf, Mohsen Guizani
-  - (2024. 10) Arxiv
-
-- **TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data** [[paper]](https://arxiv.org/abs/2410.06234) [[code]](https://github.com/ermongroup/TEOChat)
-  - Jeremy Andrew Irvin, Emily Ruoyu Liu, Joyce Chuyi Chen, Ines Dormoy, Jinyoung Kim, Samar Khanna, Zhuo Zheng, Stefano Ermon
-  - (2024. 10) Arxiv
-
-- **ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing** [[paper]](https://arxiv.org/abs/2410.10047) [[code]](https://github.com/Y-D-Wang/ChangeMinds)
-  - Yuduo Wang, Weikang Yu, Michael Kopp, Pedram Ghamisi
-  - (2024. 10) Arxiv
-  
-- **Inter-Temporal Interaction and Symmetric Difference Learning for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10689474) [[code]](https://github.com/romanticLYP/TISDNet)
-  - Yunpeng Li; Xiangrong Zhang; Xina Cheng; Puhua Chen; Licheng Jiao
-  - (2024. 09) IEEE Transactions on Geoscience and Remote Sensing
-  
-- **CDChat: A Large Multimodal Model for Remote Sensing Change Description** [[paper]](https://arxiv.org/abs/2409.16261) [[code]](https://github.com/techmn/cdchat)
-  - Mubashir Noman, Noor Ahsan, Muzammal Naseer, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Fahad Shahbaz Khan
-  - (2024. 09) Arxiv
-
-- **Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2409.12612) [[code]](https://github.com/yangcong356/KCFI)
-  - Cong Yang, Zuchao Li, Hongzan Jiao, Zhi Gao, Lefei Zhang
-  - (2024. 09) Arxiv
+<p align="center">
+  <h1 align="center">Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey</h1>
+  <p align="center">
+    <b> arXiv, 2024 </b>
+    <br />
+    <a href="https://chen-yang-liu.github.io/"><strong>Chenyang Liu </strong></a>
+    ·
+    <a href="https://levir.buaa.edu.cn/members/index.html"><strong> Jiafan Zhang </strong></a>
+<!--     ·
+    <a href="https://chenkeyan.top/"><strong> Keyan Chen </strong></a> -->
+    ·
+    <a href="https://levir.buaa.edu.cn/members/index.html"><strong> Man Wang </strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=DzwoyZsAAAAJ"><strong> Zhengxia Zou </strong></a>
+    ·   
+    <a href="https://scholar.google.com/citations?user=kNhFWQIAAAAJ"><strong> Zhenwei Shi </strong></a>
     
-- **ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning** [[paper]](https://arxiv.org/abs/2409.08582) [[code]](https://github.com/hanlinwu/ChangeChat)
-  - Pei Deng, Wenqian Zhou, Hanlin Wu
-  - (2024. 09) Arxiv
-  
-- **MfrNet: A New Multi-Scale Feature Refining Method for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10640584)
-  - Kaiqi Xu; Yingping Han; Rui Yang; Xiutiao Ye; Yanhe Guo; Hantong Xing; Shuang Wang
-  - (2024. 09) 2024 IEEE International Geoscience and Remote Sensing Symposium - IGARSS 2024
-
-- **Detection Assisted Change Captioning for Remote Sensing Image** [[paper]](https://ieeexplore.ieee.org/document/10640971)
-  - Xiliang Li; Bin Sun; Shutao Li
-  - (2024. 09) 2024 IEEE International Geoscience and Remote Sensing Symposium - IGARSS 2024
-
-- **Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance** [[paper]](https://arxiv.org/abs/2407.14032)
-  - Yongshuo Zhu, Lu Li, Keyan Chen, Chenyang Liu, Fugen Zhou, Zhenwei Shi
-  - (2024. 07) Arxiv
-
-- **Scale-wised feature enhancement network for change captioning of remote sensing images** [[paper]](https://www.tandfonline.com/doi/abs/10.1080/01431161.2024.2380544)
-  - F Zhang, W Zhang, K Xia, H Feng
-  - (2024. 07) International Journal of Remote Sensing
-  
-- **Multi-scale Attentive Fusion Network for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10558583)
-  - Cai Chen; Yi Wang; Kim-Hui Yap
-  - (2024. 07) 2024 IEEE International Symposium on Circuits and Systems (ISCAS)
-
-- **Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis** [[paper]](https://ieeexplore.ieee.org/abstract/document/10591792) [[code]](https://github.com/Chen-Yang-Liu/Change-Agent)
-  - Chenyang Liu; Keyan Chen; Haotian Zhang; Zipeng Qi; Zhengxia Zou; Zhenwei Shi
-  - (2024. 07) IEEE Transactions on Geoscience and Remote Sensing
-
-- **Towards Temporal Change Explanations from Bi-Temporal Satellite Images** [[paper]](https://arxiv.org/abs/2407.09548)
-  - Ryo Tsujimoto, Hiroki Ouchi, Hidetaka Kamigaito, Taro Watanabe
-  - (2024. 06) Arxiv
-
-- **Intelli-Change Remote Sensing - A Novel Transformer Approach** [[paper]](https://ieeexplore.ieee.org/document/10594026)
-  - D Vyshnav, L Gutha, APV Manindra, B Karthikeyan
-  - (2024. 06) International Conference on Data Science and Information System (ICDSIS)
-
-- **Towards a multimodal framework for remote sensing image change retrieval and captioning** [[paper]](https://arxiv.org/abs/2406.13424) [[code]](https://github.com/rogerferrod/RSICRC)
-  - Roger Ferrod, Luigi Di Caro, Dino Ienco
-  - (2024. 06) Arxiv
-  
-- **Context-aware Difference Distilling for Multi-change Captioning** [[paper]](https://arxiv.org/abs/2405.20810) [[code]](https://github.com/tuyunbin/CARD)
-  - Y Tu, L Li, L Su, ZJ Zha, C Yan, Q Huang
-  - (2024. 05) ACL 2024
     
-- **Diffusion-RSCC: Diffusion Probabilistic Model for Change Captioning in Remote Sensing Images** [[paper]](https://arxiv.org/abs/2405.12875) [[code]](https://github.com/Fay-Y/Diffusion-RSCC)
-  - X Yu, Y Li, J Ma
-  - (2024. 05) Arxiv
+  </p>
 
-- **Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10530145) [[code]](https://github.com/mrazhou/SEN)
-  - Q Zhou, J Gao, Y Yuan, Q Wang
-  - (2024. 05) IEEE Transactions on Geoscience and Remote Sensing
+  <p align="center">
+    <a href='https://arxiv.org/'>
+      <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
+    </a>
+<!--     <a href='https://ieeexplore.ieee.org/document/'>
+      <img src='https://img.shields.io/badge/TPAMI-PDF-blue?style=flat&logo=IEEE&logoColor=green' alt='TPAMI PDF'>
+    </a> -->
+  </p>
+<br />
 
-- **A Lightweight Sparse Focus Transformer for Remote Sensing Image Change Captioning** [[paper]](https://arxiv.org/abs/2405.06598) [[code]](https://github.com/sundongwei/SFT_chag2cap)
-  - Dongwei Sun; Yajie Bao; Junmin Liu; Xiangyong Cao
-  - (2024. 05) IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-  
-- **RSCaMa: Remote Sensing Image Change Captioning with State Space Model** [[paper]](https://ieeexplore.ieee.org/document/10537177) [[code]](https://github.com/Chen-Yang-Liu/RSCaMa)
-  - C Liu, K Chen, B Chen, H Zhang, Z Zou, Z Shi
-  - (2024. 05) IEEE Geoscience and Remote Sensing Letters
+This repo is used for recording, and tracking recent Remote Sensing Temporal Vision-Language Models (RS-TVLMs). If you find any work missing or have any suggestions (papers, implementations, and other resources), feel free to [pull requests](https://github.com/Chen-Yang-Liu/RS-Temporal-VLM/pulls).
 
-- **Change Caption for Satellite Images Time Series** [[paper]](https://ieeexplore.ieee.org/abstract/document/10485459)[[code]](https://github.com/Crueyl123/SITSCC)
-  - Wei Peng, Ping Jian, Zhuqing Mao, and Yingying Zhao
-  - (2024. 03) IEEE Geoscience and Remote Sensing Letters
-    
-- **Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning** [[paper]](https://arxiv.org/abs/2312.15311)
-  - Liu C, Chen K, Qi Z, et al.
-  - (2024. 01) 2024 IEEE International Geoscience and Remote Sensing Symposium - IGARSS 2024
+### 🙌 Add Your Paper in our Repo and Survey!!!!!
 
-- **Interactive Change-Aware Transformer Network for Remote Sensing Image Change Captioning** [[paper]](https://www.mdpi.com/2072-4292/15/23/5611) [[code]](https://github.com/caicch/ICT-Net)
-  - Cai C, Wang Y, Yap K H.
-  - (2023.11) Remote Sensing
-
-- **Changes to Captions: An Attentive Network for Remote Sensing Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10305516) [[code]](https://github.com/ShizhenChang/Chg2Cap)
-  - Chang S, Ghamisi P.
-  - (2023. 11) IEEE Trans. Image Process.
-
-- **A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/document/10271701) [[code]](https://github.com/Chen-Yang-Liu/PromptCC)
-  - Liu C, Zhao R, Chen J, et al.
-  - (2023.10) IEEE Transactions on Geoscience and Remote Sensing
-
-- **Progressive Scale-aware Network for Remote sensing Image Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10283451) [[code]](https://github.com/Chen-Yang-Liu/PSNet)
-  - Liu C, Yang J, Qi Z, et al. 
-  - (2023.7) 2023 IEEE International Geoscience and Remote Sensing Symposium IGARSS
-
-- **Remote sensing image change captioning with dual-branch transformers: A new method and a large scale dataset** [[paper]](https://arxiv.org/abs/2306.11300) [[code]](https://github.com/Chen-Yang-Liu/RSICC)
-  - Liu C, Zhao R, Chen H, et al. 
-  - (2022.11) IEEE Transactions on Geoscience and Remote Sensing
- 
-- **Change captioning: A new paradigm for multitemporal remote sensing image analysis** [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254)
-  - Hoxha G, Chouaf S, Melgani F, et al.
-  - (2022.08) IEEE Transactions on Geoscience and Remote Sensing
+- You are welcome to give us an issue or PR for your RS-TVLM work !!!!! We will record it for next version update of our survey
 
 
-- **Captioning changes in bi-temporal remote sensing images** [[paper]](https://ieeexplore.ieee.org/abstract/document/9554419)
-  - Chouaf S, Hoxha G, Smara Y, et al.
-  - (2021.10) 2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS
 
+### 🥳 New
 
-## Computer Vision Field
-### Paper
-- **OneDiff: A Generalist Model for Image Difference Captioning** [[paper]](https://arxiv.org/abs/2407.05645)
-  - Erdong Hu, Longteng Guo, Tongtian Yue, Zijia Zhao, Shuning Xue, Jing Liu
-  - (2024) Arxiv
-  
-- **The STVchrono Dataset: Towards Continuous Change Recognition in Time** [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_The_STVchrono_Dataset_Towards_Continuous_Change_Recognition_in_Time_CVPR_2024_paper.html)
-  - Yanjun Sun, Yue Qiu, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata
-  - (2024) Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+🔥🔥🔥 Updated on 2024.12.04 🔥🔥🔥
 
-- **Viewpoint-Adaptive Representation Disentanglement Network for Change Captioning** [[paper]](https://ieeexplore.ieee.org/abstract/document/10108947)
-  - Tu Y, Li L, Su L, et al.
-  - (2023) IEEE Transactions on Image Processing
-    
-- **Self-supervised Cross-view Representation Reconstruction for Change Captioning** [[paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Tu_Self-supervised_Cross-view_Representation_Reconstruction_for_Change_Captioning_ICCV_2023_paper.html)
-  - Tu Y, Li L, Su L, et al.
-  - (2023) ICCV 2023
-
-- **Describing and localizing multiple changes with transformers** [[paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Qiu_Describing_and_Localizing_Multiple_Changes_With_Transformers_ICCV_2021_paper.html)
-  - Qiu Y, Yamamoto S, Nakashima K, et al.
-  - (2021) ICCV 2021
-
-- **Finding it at another side: A viewpoint-adapted matching encoder for change captioning** [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-58568-6_34)
-  - Shi X, Yang X, Gu J, et al.
-  - (2020) ECCV 2020
-
-- **Robust change captioning** [[paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Park_Robust_Change_Captioning_ICCV_2019_paper.html)
-  - Park D H, Darrell T, Rohrbach A.
-  - (2019) ICCV 2019
+- **2024.12.04**: The first version is available.
 
 
 
 
+
+### ✨ Highlight!!
+
+-  The first survey for Remote Sensing Temporal Vision-Language models.
+
+-  Some public datasets and code links are provided. 
+
+
+
+## 📖 Introduction
+
+This survey presents the first detailed survey on remote sensing vision language foundation models, including Contrastive/Conversational/Generative VLGFMs.
+
+![Alt Text](figs/vlgfm.png)
+
+## 📖 Table of Contents
+- [📚 Methods: A Survey](#methods-a-survey)
+  - [Change Captioning](#change-captioning)
+  - [Multi-task Learning of Change Detection and Captioning](#Multi-task Learning of Change Detection and Captioning)
+  - [Change Visual Question Answering](#change-visual-question-answering)
+  - [Text-to-Change Retrieval](#Text-to-Change Retrieval)
+  - ......
+
+- [📊 Dataset](#Dataset)
+- [🖊️ Citation](#citation)
+- [🐲 Contact](#contact)
+
+## 📚 Methods: A Survey
+### Change Captioning
+|   Model Name   | Paper Title                                                                                                                                                                      |    Visual Encoder     |         Language Decoder          |                    Code/Project                    |
+|:--------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------:|:---------------------------------:|:--------------------------------------------------:|
+|  CNN-RNN       | [Captioning changes in bi-temporal remote sensing images](https://ieeexplore.ieee.org/abstract/document/9554419)                                                                 |        VGG-16         |                RNN                |                        N/A                         |
+|   CC-RNN/SVM   | [Change captioning: A new paradigm for multitemporal remote sensing image analysis](https://ieeexplore.ieee.org/abstract/document/9847254)                                       |        VGG-16         |              RNN,SVM              |                        N/A                         |
+|  RSICCformer   | [Remote sensing image change captioning with dual-branch transformers: A new method and a large scale dataset](https://ieeexplore.ieee.org/document/9934924)                     |      ResNet-101       |        Transformer Decoder        |   [code](https://github.com/Chen-Yang-Liu/RSICC)   |
+|     PSNet      | [Progressive Scale-aware Network for Remote sensing Image Change Captioning](https://ieeexplore.ieee.org/abstract/document/10283451)                                             |       ViT-B/32        |        Transformer Decoder        |   [code](https://github.com/Chen-Yang-Liu/PSNet)   |
+|    PromptCC    | [A Decoupling Paradigm with Prompt Learning for Remote Sensing Image Change Captioning](https://ieeexplore.ieee.org/document/10271701)                                           |       ViT-B/32        |               GPT-2               | [code](https://github.com/Chen-Yang-Liu/PromptCC)  |
+|    Chg2Cap     | [Changes to Captions: An Attentive Network for Remote Sensing Change Captioning](https://ieeexplore.ieee.org/abstract/document/10305516)                                         |      ResNet-101       |        Transformer Decoder        |  [code](https://github.com/ShizhenChang/Chg2Cap)   |
+|    ICT-Net     | [Interactive Change-Aware Transformer Network for Remote Sensing Image Change Captioning](https://www.mdpi.com/2072-4292/15/23/5611)                                             |      ResNet-101       |        Transformer Decoder        |     [code](https://github.com/caicch/ICT-Net)      |
+|    SITS-CC     | [Change Caption for Satellite Images Time Series](https://ieeexplore.ieee.org/abstract/document/10485459)                                                                        |      ResNet-101       |        Transformer Decoder        |    [code](https://github.com/Crueyl123/SITSCC)     |
+|     RSCaMa     | [RSCaMa: Remote Sensing Image Change Captioning with State Space Model](https://ieeexplore.ieee.org/document/10537177)                                                           |       ViT-B/32        | Mamba, Transformer Decoder, GPT-2 |  [code](https://github.com/Chen-Yang-Liu/RSCaMa)   |
+|  SparseFocus   | [A Lightweight Sparse Focus Transformer for Remote Sensing Image Change Captioning](https://arxiv.org/abs/2405.06598)                                                            |      ResNet-101       |        Transformer Decoder        | [code](https://github.com/sundongwei/SFT_chag2cap) |
+|      SEN       | [Single-stream Extractor Network with Contrastive Pre-training for Remote Sensing Change Captioning](https://ieeexplore.ieee.org/abstract/document/10530145)                     | ResNet with 6-channel |        Transformer Decoder        |       [code](https://github.com/mrazhou/SEN)       |
+| Diffusion-RSCC | [Diffusion model for learning cross-modal data distribution](https://arxiv.org/abs/2405.12875)                                                                                   |      ResNet-101       |             Diffusion             |  [code](https://github.com/Fay-Y/Diffusion-RSCC)   |
+|      CARD      | [Context-aware Difference Distilling for Multi-change Captioning](https://arxiv.org/abs/2405.20810)                                                                              |      ResNet-101       |        Transformer Decoder        |      [code](https://github.com/tuyunbin/CARD)      |
+|  ChangeRetCap  | [Towards a multimodal framework for remote sensing image change retrieval and captioning](https://arxiv.org/abs/2406.13424)                                                      |      ResNet-101       |        Transformer Decoder        |   [code](https://github.com/rogerferrod/RSICRC)    |
+| Intelli-Change | [Intelli-Change Remote Sensing - A Novel Transformer Approach](https://ieeexplore.ieee.org/document/10594026)                                                                    |      ResNet-101       |        Transformer Decoder        |                        N/A                         |
+|   ChangeExp    | [Towards Temporal Change Explanations from Bi-Temporal Satellite Images](https://arxiv.org/abs/2407.09548)                                                                       |       LLaVA-1.5       |             LLaVA-1.5             |                        N/A                         |
+|    MAF-Net     | [Multi-scale Attentive Fusion Network for Remote Sensing Image Change Captioning](https://ieeexplore.ieee.org/document/10558583)                                                 |      ResNet-101       |        Transformer Decoder        |                        N/A                         |
+|      SFEN      | [Scale-wised feature enhancement network for change captioning of remote sensing images](https://www.tandfonline.com/doi/abs/10.1080/01431161.2024.2380544)                      |      WideResNet       |        Transformer Decoder        |                        N/A                         |
+|     MfrNet     | [MfrNet: A New Multi-Scale Feature Refining Method for Remote Sensing Image Change Captioning](https://ieeexplore.ieee.org/document/10640584)                                    |       ResNet-18       |        Transformer Decoder        |                        N/A                         |
+|    SEIFNet     | [Inter-Temporal Interaction and Symmetric Difference Learning for Remote Sensing Image Change Captioning](https://ieeexplore.ieee.org/abstract/document/10689474)                |      ResNet-101       |        Transformer Decoder        |   [code](https://github.com/romanticLYP/TISDNet)   |
+|     MV-CC      | [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption](https://arxiv.org/abs/2410.23946)                                                                           |     InternVideo2      |        Transformer Decoder        |     [code](https://github.com/liuruixun/MV-CC)     |
+|    MADiffCC    | [Remote Sensing Image Change Captioning Using Multi-Attentive Network with Diffusion Model](https://www.mdpi.com/2072-4292/16/21/4083)                                           |    Diffusion          |        Transformer Decoder        |                        N/A                         |  
+|    CCExpert    | [CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset](https://arxiv.org/abs/2411.11360)         |    Diffusion          |        Transformer Decoder        |   [code](https://github.com/Meize0729/CCExpert)    | 
+
+
+### Multi-task Learning of Change Detection and Captioning
+|  Model Name  | Paper Title                                                                                                                                                                        |   Visual Encoder    |   Language Decoder   |                     Code/Project                      |
+|:------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-------------------:|:--------------------:|:-----------------------------------------------------:|
+| Pix4Cap      | [Pixel-Level Change Detection Pseudo-Label Learning for Remote Sensing Change Captioning](https://arxiv.org/abs/2312.15311)                                                        |      ViT-B/32       | Transformer Decoder  | [code](https://github.com/Chen-Yang-Liu/Change-Agent) |
+| Change-Agent | [Change-Agent: Toward Interactive Comprehensive Remote Sensing Change Interpretation and Analysis](https://ieeexplore.ieee.org/abstract/document/10591792)                         |      ViT-B/32       | Transformer Decoder  |                          N/A                          |
+| Semantic-CC  | [Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance](https://arxiv.org/abs/2407.14032)                                  |         SAM         |        Vicuna        |                          N/A                          |
+|    DetACC    | [Detection Assisted Change Captioning for Remote Sensing Image](https://ieeexplore.ieee.org/document/10640971)                                                                     |     ResNet-101      | Transformer Decoder  |                          N/A                          |
+|     KCFI     | [Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning](https://arxiv.org/abs/2409.12612)                                                                  |         ViT         |         Qwen         |      [code](https://github.com/yangcong356/KCFI)      |
+| ChangeMinds  | [ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing](https://arxiv.org/abs/2410.10047)                                                       | Swin Transformer    | Transformer Decoder |  [code](https://github.com/Y-D-Wang/ChangeMinds)      |
+|   CTMTNet    | [A Multi-Task Network and Two Large Scale Datasets for Change Detection and Captioning in Remote Sensing Images](https://ieeexplore.ieee.org/document/10740028)                    |     ResNet-101      | Transformer Decoder  |                          N/A                          |
+
+
+### Change Visual Question Answering
+|    Model Name     | Paper Title                                                                                                                                      |   Visual Encoder   |       Language Decoder        |                  Code/Project                  |
+|:-----------------:|--------------------------------------------------------------------------------------------------------------------------------------------------|:------------------:|:-----------------------------:|:----------------------------------------------:|
+| change-aware VQA  | [Change-Aware Visual Question Answering](https://ieeexplore.ieee.org/document/9884801)                                                           |        CNN         |              RNN              |                      N/A                       |
+|     CDVQA-Net     | [Change Detection Meets Visual Question Answering](https://ieeexplore.ieee.org/document/9901476)                                                 |        CNN         |              RNN              |  [code](https://github.com/YZHJessica/CDVQA)   |
+|    ChangeChat     | [ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning](https://arxiv.org/abs/2409.08582)        |      CLIP-ViT      |          Vicuna-v1.5          | [code](https://github.com/hanlinwu/ChangeChat) |
+|      CDchat       | [CDChat: A Large Multimodal Model for Remote Sensing Change Description](https://arxiv.org/abs/2409.16261)                                       |   CLIP ViT-L/14    |          Vicuna-v1.5          |    [code](https://github.com/techmn/cdchat)    |
+|      TEOChat      | [TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data](https://arxiv.org/abs/2410.06234)                               |   CLIP ViT-L/14    |            LLaMA-2            | [code](https://github.com/ermongroup/TEOChat)  |
+|     GeoLLaVA      | [GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing](https://arxiv.org/abs/2410.19552)        |   Video encoder    |  LLaVA-NeXT and Video-LLaVA   |  [code](https://github.com/HosamGen/GeoLLaVA)  |
+|       CDQAG       | [Show Me What and Where has Changed?  Question Answering and Grounding for Remote Sensing Change Detection](https://arxiv.org/abs/2410.23828)    | CLIP image Encoder |       CLIP Text Encoder       |    [code](https://github.com/like413/VisTA)    |
+
+### ...
+
+## 🖊️ Citation
+
+If you find our survey and repository useful for your research project, please consider citing our paper:
+
+```bibtex
+@article{
+```
+
+## 🐲 Contact
+
+```
+liuchenyang@buaa.edu.cn
+```
