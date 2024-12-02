@@ -1,3 +1,6 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/Chen-Yang-Liu/RS-Temporal-VLM/pulls)
+<br />
 <p align="center">
   <h1 align="center">Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey</h1>
   <p align="center">
@@ -63,7 +66,7 @@ This survey presents the first detailed survey on remote sensing vision language
 ## 📖 Table of Contents
 - [📚 Methods: A Survey](#methods-a-survey)
   - [Change Captioning](#change-captioning)
-  - [Multi-task Learning of Change Detection and Captioning](#Multi-task Learning of Change Detection and Captioning)
+  - [Multitask Learning of Change Detection and Captioning](#Multitask-Learning-of-Change-Detection-and-Captioning)
   - [Change Visual Question Answering](#change-visual-question-answering)
   - [Text-to-Change Retrieval](#Text-to-Change Retrieval)
   - ......
@@ -123,6 +126,12 @@ This survey presents the first detailed survey on remote sensing vision language
 |      TEOChat      | [TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data](https://arxiv.org/abs/2410.06234)                               |   CLIP ViT-L/14    |            LLaMA-2            | [code](https://github.com/ermongroup/TEOChat)  |
 |     GeoLLaVA      | [GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing](https://arxiv.org/abs/2410.19552)        |   Video encoder    |  LLaVA-NeXT and Video-LLaVA   |  [code](https://github.com/HosamGen/GeoLLaVA)  |
 |       CDQAG       | [Show Me What and Where has Changed?  Question Answering and Grounding for Remote Sensing Change Detection](https://arxiv.org/abs/2410.23828)    | CLIP image Encoder |       CLIP Text Encoder       |    [code](https://github.com/like413/VisTA)    |
+
+
+### Text-to-Change Retrieval
+|    Model Name     | Paper Title                                                                                                                                                 |                  Code/Project                  |
+|:-----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------:|
+|  ChangeRetCap  | [Towards a multimodal framework for remote sensing image change retrieval and captioning](https://arxiv.org/abs/2406.13424)                                 | [code](https://github.com/rogerferrod/RSICRC)  |
 
 ### ...
 
