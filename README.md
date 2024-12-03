@@ -77,6 +77,7 @@ Timeline of representative RS-TVLMs:
   - [Matching Temporal Images, Text, and Masks](#Matching-Temporal-Images,-Text,-and-Masks)
   - [Matching Temporal Images and Question-Answer Instructions](#Matching-Temporal-Images-and-Question-Answer-Instructions)
   - ......
+- [👨‍🏫 Other Survey](#Other-Survey)
 - [🖊️ Citation](#Citation)
 - [🐲 Contact](#Contact)
 
@@ -204,7 +205,7 @@ Timeline of representative RS-TVLMs:
 ### ......
 
 
-### 👨‍🏫 Other Survey
+### 👨‍🏫 Other Survey <a id="Other-Survey"></a>
 
 | Year  | Paper Title                                                                                                                                                                       |
 |:-----:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
