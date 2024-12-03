@@ -69,6 +69,8 @@ This survey presents the first detailed survey on remote sensing vision language
   - [Multitask Learning of Change Detection and Captioning](#Multitask-Learning-of-Change-Detection-and-Captioning)
   - [Change Visual Question Answering](#change-visual-question-answering)
   - [Text2Change Retrieval](#Text2Change-Retrieval)
+  - [Change Grounding](#Change-Grounding)
+  - [Large Language Models Meets Temporal Images](#Large-Language-Models-Meets-Temporal-Images)
   - ......
 
 - [📊 Dataset](#Dataset)
@@ -102,7 +104,7 @@ This survey presents the first detailed survey on remote sensing vision language
 |     MV-CC      | [MV-CC: Mask Enhanced Video Model for Remote Sensing Change Caption](https://arxiv.org/abs/2410.23946)                                                                           |     InternVideo2      |        Transformer Decoder        |     [code](https://github.com/liuruixun/MV-CC)     |
 |    MADiffCC    | [Remote Sensing Image Change Captioning Using Multi-Attentive Network with Diffusion Model](https://www.mdpi.com/2072-4292/16/21/4083)                                           |    Diffusion          |        Transformer Decoder        |                        N/A                         |  
 |    CCExpert    | [CCExpert: Advancing MLLM Capability in Remote Sensing Change Captioning with Difference-Aware Integration and a Foundational Dataset](https://arxiv.org/abs/2411.11360)         |    Diffusion          |        Transformer Decoder        |   [code](https://github.com/Meize0729/CCExpert)    | 
-
+| ......
 
 ### Multitask Learning of Change Detection and Captioning
 |  Model Name  | Paper Title                                                                                                                                                                        |   Visual Encoder    |   Language Decoder   |                     Code/Project                      |
@@ -114,7 +116,7 @@ This survey presents the first detailed survey on remote sensing vision language
 |     KCFI     | [Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning](https://arxiv.org/abs/2409.12612)                                                                  |         ViT         |         Qwen         |      [code](https://github.com/yangcong356/KCFI)      |
 | ChangeMinds  | [ChangeMinds: Multi-task Framework for Detecting and Describing Changes in Remote Sensing](https://arxiv.org/abs/2410.10047)                                                       | Swin Transformer    | Transformer Decoder |  [code](https://github.com/Y-D-Wang/ChangeMinds)      |
 |   CTMTNet    | [A Multi-Task Network and Two Large Scale Datasets for Change Detection and Captioning in Remote Sensing Images](https://ieeexplore.ieee.org/document/10740028)                    |     ResNet-101      | Transformer Decoder  |                          N/A                          |
-
+| ......
 
 ### Change Visual Question Answering
 |    Model Name     | Paper Title                                                                                                                                      |   Visual Encoder   |       Language Decoder        |                  Code/Project                  |
@@ -126,30 +128,75 @@ This survey presents the first detailed survey on remote sensing vision language
 |      TEOChat      | [TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data](https://arxiv.org/abs/2410.06234)                               |   CLIP ViT-L/14    |            LLaMA-2            | [code](https://github.com/ermongroup/TEOChat)  |
 |     GeoLLaVA      | [GeoLLaVA: Efficient Fine-Tuned Vision-Language Models for Temporal Change Detection in Remote Sensing](https://arxiv.org/abs/2410.19552)        |   Video encoder    |  LLaVA-NeXT and Video-LLaVA   |  [code](https://github.com/HosamGen/GeoLLaVA)  |
 |       CDQAG       | [Show Me What and Where has Changed?  Question Answering and Grounding for Remote Sensing Change Detection](https://arxiv.org/abs/2410.23828)    | CLIP image Encoder |       CLIP Text Encoder       |    [code](https://github.com/like413/VisTA)    |
-
+| ......
 
 ### Text2Change Retrieval
 |    Model Name     | Paper Title                                                                                                                                                 |                  Code/Project                  |
 |:-----------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------:|
 |  ChangeRetCap  | [Towards a multimodal framework for remote sensing image change retrieval and captioning](https://arxiv.org/abs/2406.13424)                                 | [code](https://github.com/rogerferrod/RSICRC)  |
+| ......
 
-### ......
+
+### Change Grounding
+|    Model Name     | Paper Title                                                                                                                                   |                  Code/Project                  |
+|:-----------------:|-----------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------:|
+|    ChangeChat     | [ChangeChat: An Interactive Model for Remote Sensing Change Analysis via Multimodal Instruction Tuning](https://arxiv.org/abs/2409.08582)     | [code](https://github.com/hanlinwu/ChangeChat) |
+|      CDchat       | [CDChat: A Large Multimodal Model for Remote Sensing Change Description](https://arxiv.org/abs/2409.16261)                                    |    [code](https://github.com/techmn/cdchat)    |
+|      TEOChat      | [TEOChat: A Large Vision-Language Assistant for Temporal Earth Observation Data](https://arxiv.org/abs/2410.06234)                            | [code](https://github.com/ermongroup/TEOChat)  |
+|       CDQAG       | [Show Me What and Where has Changed?  Question Answering and Grounding for Remote Sensing Change Detection](https://arxiv.org/abs/2410.23828) |    [code](https://github.com/like413/VisTA)    |
+| ......
+
+
+### Large Language Models Meets Temporal Images
+
+| Method               | Release Time | LLM            | Fine-tuning | Task        |
+|----------------------|--------------|----------------|-------------|-------------|
+| PromptCC             | 2023.06      | GPT-2          | Prompt Learning | CC          |
+| Semantic-CC          | 2024.07      | Vicuna         | LoRA        | CC          |
+| ChangeChat           | 2024.09      | Vicuna-v1.5    | LoRA        | CVQA, CG    |
+| KCFI                 | 2024.09      | Qwen           | Prompt      | CC          |
+| CDChat               | 2024.09      | Vicuna-v1.5    | LoRA        | CVQA        |
+| TEOChat              | 2024.10      | LLaMA-2        | LoRA        | CVQA, CG    |
+| GeoLLaVA             | 2024.10      | LLaVA-NeXT     | LoRA        | CVQA        |
+| Chareption           | 2024.10      | LLaMA-7B       | Adapter     | CC          |
+| CCExpert             | 2024.11      | Qwen-2         | LoRA        | CC          |
+| ......
 
 ## 📊 Dataset
 
-- **Change Captioning Dataset:** 
+- **Dataset Matching Temporal Images and Text:**
 
-| Dataset  | Image pairs num| Image sizes| Captions num|   Data   |   Paper  |
-| -------- | :------------: | :--------: | :---------: | :------: | :------: |
-| LEVIR_CC | 10,077 | (256,256) | 50,385 | [[data]](https://github.com/Chen-Yang-Liu/RSICC) | [[paper]](https://ieeexplore.ieee.org/document/10271701) |
-| Dubai_CC |   500  | (50,50) | 2,500 | [[data]](https://disi.unitn.it/~melgani/datasets.html) | [[paper]](https://ieeexplore.ieee.org/abstract/document/9847254) |
+| Dataset          | Image Size/Resolution | Image pairs | Captions  | Annotation | Download Link                                                                 |
+|------------------|-----------------------|-------------|-----------|------------|-------------------------------------------------------------------------------|
+| DUBAI CCD        | 50×50 (30m)           | 500         | 2,500     | Manual     | [Link](https://disi.unitn.it/~melgani/datasets.html)                          |
+| LEVIR CCD        | 256×256 (0.5m)        | 500         | 2,500     | Manual     | [Link](https://disi.unitn.it/~melgani/datasets.html)                          |
+| LEVIR-CC         | 256×256 (0.5m)        | 10,077      | 50,385    | Manual     | [Link](https://github.com/Chen-Yang-Liu/LEVIR-CC-Dataset)                     |
+| WHU-CDC          | 256×256 (0.075m)      | 7,434       | 37,170    | Manual     | [Link](https://huggingface.co/datasets/hygge10111/RS-CDC)                     |
 
-- **Change Detection and Captioning Dataset:** 
 
-| Dataset   | Image pairs num| Image sizes| Captions num| Mask num|   Data   |   Paper  |
-|-----------| :------------: | :--------: | :---------: | :-----: | :------: | :------: |
-| LEVIR-MCI | 10,077 | (256,256) | 50,385 | 44,380 |[[data]](https://github.com/Chen-Yang-Liu/Change-Agent) | [[paper]](https://ieeexplore.ieee.org/document/10591792) |
-| WHU-CDC   |
+
+- **Dataset Matching Temporal Images, Text, and Masks:** 
+
+| Dataset          | Image Size/Resolution | Image pairs | Captions  | Pixel-level Masks       | Annotation | Download Link                                                                 |
+|------------------|-----------------------|-------------|-----------|-------------------------|------------|-------------------------------------------------------------------------------|
+| LEVIR-MCI        | 256×256 (0.5m)        | 10,077      | 50,385    | 44,380 (building, road) | Manual     | [Link](https://huggingface.co/datasets/lcybuaa/LEVIR-MCI)                     |
+| LEVIR-CDC        | 256×256 (0.5m)        | 10,077      | 50,385    | -- (building)           | Manual     | [Link](https://huggingface.co/datasets/hygge10111/RS-CDC)                      |
+| WHU-CDC          | 256×256 (0.075m)      | 7,434       | 37,170    | -- (building)           | Manual     | [Link](https://huggingface.co/datasets/hygge10111/RS-CDC)                      |
+
+
+- **Dataset Matching Temporal Images and Question-Answer Instructions:** 
+
+| Dataset               | Temporal Images                         | Image Resolution | Instruction Samples | Change-related Task       | Annotation  | Download Link                                                                 |
+|-----------------------|-----------------------------------------|------------------|---------------------|---------------------------|-------------|-------------------------------------------------------------------------------|
+| CDVQA                 | 2,968 pairs (bi-temporal)               | 0.5m~3m          | 122,000             | CVQA                      | Manual      | [Link](https://github.com/YZHJessica/CDVQA)                                   |
+| ChangeChat-87k        | 10,077 pairs (bi-temporal)              | 0.5m             | 87,195              | CVQA, Grounding           | Automated   | [Link](https://github.com/hanlinwu/ChangeChat)                                |
+| GeoLLaVA              | 100,000 pairs (bi-temporal)             | --               | 100,000             | CVQA                      | Automated   | [Link](https://github.com/HosamGen/GeoLLaVA)                                  |
+| TEOChatlas            | -- (variable temporal length)           | --               | 554,071             | Classification, CVQA, Grounding | Automated | [Link](https://github.com/ermongroup/TEOChat)                                 |
+| QVG-360K              | 6,810 pairs (bi-temporal)               | 0.1m~3m          | 360,000             | CVQA, Grounding           | Automated   | [Link](https://github.com/like413/VisTA)                                      |
+
+
+
+
 ### ......
 
 ## 🖊️ Citation
