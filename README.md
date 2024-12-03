@@ -59,7 +59,7 @@ This repo is used for recording, and tracking recent Remote Sensing Temporal Vis
 
 ## 📖 Introduction
 
-This survey presents the first detailed survey on remote sensing vision language foundation models, including Contrastive/Conversational/Generative VLGFMs.
+Timeline of representative RS-TVLMs:
 
 ![Alt Text](fig/overview2.png)
 
@@ -201,17 +201,35 @@ This survey presents the first detailed survey on remote sensing vision language
 |   TEOChatlas   | -- (variable temporal length) |        --        |       554,071       | Classification, CVQA, Grounding | Automated  | [Link](https://github.com/ermongroup/TEOChat)  |
 |    QVG-360K    |   6,810 pairs (bi-temporal)   |     0.1m~3m      |       360,000       |         CVQA, Grounding         | Automated  |    [Link](https://github.com/like413/VisTA)    |
 
-
-
-
 ### ......
+
+
+### 👨‍🏫 Other Survey
+
+| Year  | Paper Title                                                                                                                                                                       |
+|:-----:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2023  | [An Agenda for Multimodal Foundation Models for Earth Observation](https://ieeexplore.ieee.org/abstract/document/10282966)                                                        |
+| 2023  | [Self-Supervised Remote Sensing Feature Learning: Learning Paradigms, Challenges, and Future Works](https://ieeexplore.ieee.org/abstract/document/10126079)                       |
+| 2023  | [Large Remote Sensing Model: Progress and Prospects](http://ch.whu.edu.cn/cn/article/doi/10.13203/j.whugis20230341)                                                               |
+| 2023  | [Brain-Inspired Remote Sensing Foundation Models and Open Problems: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/10254282)                               |
+| 2023  | [On the Promises and Challenges of Multimodal Foundation Models for Geographical, Environmental, Agricultural, and Urban Planning Applications](https://arxiv.org/abs/2312.17016) |
+| 2024  | [Vision-Language Models in Remote Sensing: Current Progress and Future Trends](https://arxiv.org/abs/2305.05726)                                                                  |
+| 2024  | [On the Foundations of Earth and Climate Foundation Models](https://arxiv.org/abs/2405.04285)                                                                                     |
+| 2024  | [Towards Vision-Language Geo-Foundation Model: A Survey](http://arxiv.org/abs/2406.09385)                                                                                         | 
+| 2024  | [Language Integration in Remote Sensing: Tasks, datasets, and future directions](https://ieeexplore.ieee.org/document/10278197/?arnumber=10278197)                                |
+| 2024  | [Advancements in Visual Language Models for Remote Sensing: Datasets, Capabilities, and Enhancement Techniques](http://arxiv.org/abs/2410.17283)                                  |
+| 2024  | [An LLM Agent for Automatic Geospatial Data Analysis](http://arxiv.org/abs/2410.18792)                                                                                 |
+| 2024  | [COREval: A Comprehensive and Objective Benchmark for Evaluating the Remote Sensing Capabilities of Large Vision-Language Models](http://arxiv.org/abs/2411.18145)|
+
+
 
 ## 🖊️ Citation <a id="Citation"></a>
 
 If you find our survey and repository useful for your research, please consider citing our paper:
 
 ```bibtex
-@article{
+@article{liu2024remote,
+  title={Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey},
 ```
 
 ## 🐲 Contact <a id="Contact"></a>
@@ -219,3 +237,4 @@ If you find our survey and repository useful for your research, please consider 
 ```
 liuchenyang@buaa.edu.cn
 ```
+
