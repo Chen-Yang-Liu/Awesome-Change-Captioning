@@ -61,7 +61,7 @@ This repo is used for recording, and tracking recent Remote Sensing Temporal Vis
 
 This survey presents the first detailed survey on remote sensing vision language foundation models, including Contrastive/Conversational/Generative VLGFMs.
 
-![Alt Text](fig/overview.png)
+![Alt Text](fig/overview2.png)
 
 ## 📖 Table of Contents
 - [📚 Methods: A Survey](#methods-a-survey)
