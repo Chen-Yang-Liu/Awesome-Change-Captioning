@@ -8,7 +8,7 @@ To add your work to this repo, feel free to submit the request or contact me at 
 
 ### 🥳 New
 
-🔥🔥🔥 Our survey "Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey": [Arxiv](https://arxiv.org/abs/2412.02573) || [Github](https://github.com/Chen-Yang-Liu/Awesome-RS-Temporal-VLM) 🔥🔥🔥
+🔥 Our survey "Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey": [Arxiv](https://arxiv.org/abs/2412.02573) || [Github](https://github.com/Chen-Yang-Liu/Awesome-RS-Temporal-VLM) 🔥 
 
 
 ## Remote Sensing Field
