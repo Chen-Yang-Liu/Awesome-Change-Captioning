@@ -6,7 +6,7 @@ This repository contains a collection of resources and papers on Change Captioni
 
 To add your work to this repo, feel free to submit the request or contact me at liuchenyang@buaa.edu.cn
 
-🔥 The **latest** paper will be updated in [**Github**](https://github.com/Chen-Yang-Liu/Awesome-RS-Temporal-VLM) 
+🔥 The **latest repository** will be updated in [**Github**](https://github.com/Chen-Yang-Liu/Awesome-RS-Temporal-VLM) 🥳
 
 ### 🥳 New
 
